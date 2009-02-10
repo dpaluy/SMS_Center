@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMS_Center" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AUTO_CONNECT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.sti.co.il/api/incomingsms.asp</Value>
+    </Setting>
+    <Setting Name="COM_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="BaudRate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="DataBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Parity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="StopBits" Type="System.String" Scope="User">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="readSMS_timeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="LOG_File" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sms_log.rtf</Value>
+    </Setting>
+    <Setting Name="HTTP_METHOD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">POST</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

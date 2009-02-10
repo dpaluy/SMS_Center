@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_Center", "SMS_Center\SMS_Center.csproj", "{CDFD5FFA-99CB-4018-9379-EBB7F08DB471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakePhoneList", "MakePhoneList\MakePhoneList.csproj", "{AE22FC63-EC05-42AF-B7E7-65AE57B45126}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFD5FFA-99CB-4018-9379-EBB7F08DB471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFD5FFA-99CB-4018-9379-EBB7F08DB471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFD5FFA-99CB-4018-9379-EBB7F08DB471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFD5FFA-99CB-4018-9379-EBB7F08DB471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE22FC63-EC05-42AF-B7E7-65AE57B45126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE22FC63-EC05-42AF-B7E7-65AE57B45126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE22FC63-EC05-42AF-B7E7-65AE57B45126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE22FC63-EC05-42AF-B7E7-65AE57B45126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
